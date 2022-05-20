@@ -6,11 +6,11 @@ These are some bash scripts I've written for multiple purposes.
 1. [React component scaffolding](#react-component-scaffolding-with-styled-components)
 2. [HTML scaffolding](#html-scaffolding)
 
-### React component scaffolding (with styled-components)
+## React component scaffolding (with styled-components)
 
 Create your react components scaffolding with a single command.
 
-#### Usage
+### Usage
 ```bash
   $ sh react_component.sh <ComponentOne> <ComponentTwo> ...
 ```
@@ -41,11 +41,11 @@ This create a directory for each component that you pass in. Each directory cont
   export { default as Component } from './Component.component'
 ```
 
-### HTML Scaffolding
+## HTML Scaffolding
 
 Create your HTML scaffolding with a single command.
 
-#### Usage
+### Usage
 ```bash
   $ sh html_scaffolding.sh
 ```
